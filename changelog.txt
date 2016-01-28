@@ -3,8 +3,8 @@ Changelog
 *********
 Newest at the top
 
-
 DateTime              What was done 
 Jan-28-2016 10.48     Initial Changelog
+Jan-28-2016 13.09     Added role assignment
 
 
