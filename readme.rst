@@ -10,7 +10,7 @@ Team Members:
 *************
 
 William
-Ziggy
+Ziqi Miao
 Shaw
 
 ******************
