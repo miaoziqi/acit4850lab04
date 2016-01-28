@@ -14,9 +14,9 @@ Ziggy
 Shaw
 
 ******************
-COding Convention:
+Cding Convention:
 ******************
-Almon style format
+Allman style format
 
 
 
