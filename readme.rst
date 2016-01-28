@@ -18,6 +18,14 @@ Coding Convention:
 ******************
 Allman style format
 
+****************
+Task Assignment:
+****************
+
+Shaw: 2, 5, 7
+Will: 1, 4
+Ziq: 3, 6, 8
+
 
 
 
