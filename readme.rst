@@ -16,7 +16,7 @@ Shaw
 ******************
 Coding Convention:
 ******************
-Alman style format
+Allman style format
 
 
 
