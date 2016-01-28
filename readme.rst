@@ -14,9 +14,9 @@ Ziqi
 Shaw
 
 ******************
-COding Convention:
+Coding Convention:
 ******************
-Almon style format
+Allman style format
 
 
 
