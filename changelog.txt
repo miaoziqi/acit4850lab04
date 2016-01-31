@@ -6,5 +6,6 @@ Newest at the top
 DateTime              What was done 
 Jan-28-2016 10.48     Initial Changelog
 Jan-28-2016 13.09     Added role assignment
+Jan-31-2016 14:21     Fixed link 5 (show/3)
 
 
