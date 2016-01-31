@@ -51,7 +51,8 @@
 	header('Content-Disposition: inline');
 	readfile($source); // dish it
 	die(); // and we don't have to go any further
-    };    
+    }; 
+    $route['([a-zA-Z][a-zA-Z][a-zA-Z][a-zA-Z])/bingo'] = "Bingo";
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
