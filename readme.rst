@@ -10,8 +10,8 @@ Team Members:
 *************
 
 William
-Ziqi Miao
-Shaw - Test2
+Ziggy
+Shaw
 
 ******************
 Coding Convention:
