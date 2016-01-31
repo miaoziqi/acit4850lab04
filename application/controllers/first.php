@@ -36,6 +36,16 @@ class first extends Application {
             $this->data = array_merge($this->data, $record);
             $this->render();
         }
+        
+           
+        function gimme($id)
+        {
+            $this->data['pagebody'] = 'justone';	// this is the view we want shown
+            $record =$this->quotes->get($id);
+            $this->data = array_merge($this->data, $record);
+            $this->render();
+        }
+
 }
 
 /* End of file Welcome.php */
